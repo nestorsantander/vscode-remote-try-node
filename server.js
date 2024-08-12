@@ -33,5 +33,5 @@ if (require.main === module) {
 }
 
 // Exporta la función y la app para que puedan ser usadas en los tests
-module.exports = app;
+//module.exports = app;
 module.exports = calcularCuadrado;
