@@ -7,8 +7,7 @@
   "private": true,
   "scripts": {
     "start": "node server.js",
-    "test":"jest",
-    "build":"azure"
+    "test":"jest"
   },
   "dependencies": {
     "express": "^4.19.2",
